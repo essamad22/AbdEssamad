@@ -1,7 +1,7 @@
 # AbdEssamad
-<h1 align="center">Hi 👋, I'm AbdEssamad</h1>
+<h1 align="center">Hi 👋, I'm AbdEssamad
+A passionate Software developer student </h1>
 
-<h2 align="center">A passionate Software developer student</h2>
 <p align="center"> <img decoding="async" fetchpriority="high" src="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-1.gif" alt="Lo fi aesthetic gifs" width="750" height="470" class="lazyloaded" data-ll-status="loaded"> </p>
 
 <h3 align="center">- 👨‍💻 I’m currently a Student in 1337 school at UM6P - Mohammed VI Polytechnic University. [https://1337.ma/en/] </h3>
