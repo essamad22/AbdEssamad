@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AbdEssamad</h1>
 <h2 align="center">A passionate Software developer student</h2>
 
-<h3 style="font-size:4em;">- 👨‍💻 I’m currently a 1337 [42 Network] Student.</h3> 
+<h3 align="center" style="font-size:4em;">- 👨‍💻 I’m currently a 1337 [42 Network] Student.</h3> 
 <img align="center" data-visualcompletion="media-vc-image" alt="Aucune description de photo disponible." class="x1bwycvy x193iq5w x4fas0m x19kjcj4" referrerpolicy="origin-when-cross-origin" src="https://scontent.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/347774990_768786181534551_5931157534314711095_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=5f2048&amp;_nc_ohc=9IFU6wLep1MAX_MavvV&amp;_nc_ht=scontent.fcmn1-1.fna&amp;oh=00_AfCFvBndj_4fpNRAwoarhra6w-iMDJbDIg2LPfcDgOxoYA&amp;oe=653DD676" width="76" height="76"> </h3> 
 
 <h5 align="left">Languages and Tools:</h5>
