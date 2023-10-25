@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AbdEssamad</h1>
 <h2 align="center">A passionate Software developer student</h2>
 
-<h3 align="center" style="font-size:4em;">- 👨‍💻 I’m currently a Student in 1337 school at UM6P - Mohammed VI Polytechnic University. [https://1337.ma/en/]</h3> 
+<h3 align="center" style="font-size:4em;" width="70" height="70">- 👨‍💻 I’m currently a Student in 1337 school at UM6P - Mohammed VI Polytechnic University. [https://1337.ma/en/] </h3>
 <h3 align="center" > <img data-visualcompletion="media-vc-image" alt="Aucune description de photo disponible." class="x1bwycvy x193iq5w x4fas0m x19kjcj4" referrerpolicy="origin-when-cross-origin" src="https://scontent.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/347774990_768786181534551_5931157534314711095_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=5f2048&amp;_nc_ohc=9IFU6wLep1MAX_MavvV&amp;_nc_ht=scontent.fcmn1-1.fna&amp;oh=00_AfCFvBndj_4fpNRAwoarhra6w-iMDJbDIg2LPfcDgOxoYA&amp;oe=653DD676" width="80" height="80"> <img data-visualcompletion="media-vc-image" alt="Peut être un graphique de texte qui dit ’U M 6’" class="x1bwycvy x193iq5w x4fas0m x19kjcj4" referrerpolicy="origin-when-cross-origin" src="https://scontent.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/386244027_367182425637643_7290015705244543812_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=5f2048&amp;_nc_ohc=qMPYnBgvdC0AX8t_LGk&amp;_nc_ht=scontent.fcmn1-4.fna&amp;oh=00_AfBrHlYqd3oQdGYrShE11Yxqs_TXdU-_yT4o-xfs_DZCcw&amp;oe=653CDF98" width="80" height="80"> </h3> 
 
 <h3 align="left">Languages and Tools:</h3>
