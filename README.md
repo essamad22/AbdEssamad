@@ -1,4 +1,3 @@
-                                                                    # AbdEssamad
 <p align="center"> <img decoding="async" fetchpriority="high" src="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-1.gif" alt="Lo fi aesthetic gifs" width="900" height="570" class="lazyloaded" data-ll-status="loaded"> </p>
 
 <h1 align="center"> 𝑯𝒊 👋 , 𝑰'𝒎 𝑨𝒃𝒅𝑬𝒔𝒔𝒂𝒎𝒂𝒅 <br> 𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 </h1>
