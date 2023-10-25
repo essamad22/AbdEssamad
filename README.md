@@ -1,5 +1,5 @@
 # AbdEssamad
-<h1 align="center" style="font-family:Monospace">Hi 👋, I'm AbdEssamad</h1>
+<h1 align="center" style="font-family:monospace">Hi 👋, I'm AbdEssamad</h1>
 <h2 align="center">A passionate Software developer student</h2>
 
 <h3 align="center">- 👨‍💻 I’m currently a Student in 1337 school at UM6P - Mohammed VI Polytechnic University. [https://1337.ma/en/] </h3>
