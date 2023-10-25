@@ -1,7 +1,7 @@
 # AbdEssamad
 <h1 align="center">Hi 👋, I'm AbdEssamad</h1>
 
-<img decoding="async" fetchpriority="high" src="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-1.gif" alt="Lo fi aesthetic gifs" width="500" height="270" class="lazyloaded" data-ll-status="loaded">
+<h2 align="center"> <img decoding="async" fetchpriority="high" src="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-1.gif" alt="Lo fi aesthetic gifs" width="700" height="470" class="lazyloaded" data-ll-status="loaded"> </h2>
 
 <h2 align="center">A passionate Software developer student</h2>
 
